@@ -1,3 +1,7 @@
+#Author: Lilliana Parra
+#Github username: ParraL1
+# Date: 01/11/2022
+#Description: Average of five numbers
 print("Please enter five numbers.")
 num_1 = float(input())
 num_2 = float(input())
